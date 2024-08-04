@@ -3,7 +3,13 @@
 @tailwind utilities;
 
 :root {
+  /* Background Colors */
   --bg-color: #f9f9f9;
+  --bg-primary: rgb(15 115 192);
+  --bg-secondary: rgb(2, 70, 123);
+
+  /* Text Colors */
+  --text-primary: #fff;
 }
 
 body {

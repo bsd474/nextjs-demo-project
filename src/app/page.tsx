@@ -1,8 +1,7 @@
 const HomePage = () => {
   return (
     <>
-      <div>Home Page</div>
-      <p>This is a demo project</p>
+      <p>This is home page section</p>
     </>
   );
 };
